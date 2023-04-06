@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 3 */
+/* div {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+} */
+
+
+/* 1 */
+/*.small-images img {
+     height: 100px;
+    width: 100px;
+}
+
+.big-image img {
+    height: 300px;
+    width: 300px;
+} */
+
+/* 2 */
+/* .text {
+    color: transparent;
+    background-color: blue;
+}
+
+.text:after {
+    content: '*****';
+    color: white;
+  } */
